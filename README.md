@@ -1,5 +1,9 @@
 ### Hi there 👋
-👋 Hello there! I'm a computer programming student with a diverse academic background—I hold a Bachelor's degree in Industrial Engineering and a Master's degree in Renewable Energy. This unique blend equips me with a versatile skill set, allowing me to bring a fresh perspective to various challenges. My passion lies in web development and design, and my GitHub is a canvas where I bring ideas to life. As I traverse the exciting journey of becoming a web developer, I'm constantly refining my skills and working on projects that showcase my commitment to creating seamless and visually appealing digital experiences. Let's connect and build something amazing together! 💻🚀
+👋 Hello! I'm a computer programming student with a unique blend of academic expertise, holding a Bachelor's degree in Industrial Engineering and a Master's degree in Renewable Energy. My journey has led me to the fascinating world of web development and design, where I'm actively honing my skills and crafting innovative projects. Passionate about the intersection of technology and sustainability, I aspire to contribute to the digital landscape with creative solutions. Check out my repositories to see the exciting projects I've been working on to sharpen my programming prowess! 🚀💻
+
+### Skills
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
 <!--
 **MuzafferCemAtes/MuzafferCemAtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
