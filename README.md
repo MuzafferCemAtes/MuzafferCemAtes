@@ -10,9 +10,10 @@
 <img align="left" alt="npm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 <img align="left" alt=".net" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="mongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="mySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
 <img align="left" alt="nodeJS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  />
 <img align="left" alt="excel" width="40px" style="padding-right:10px;" src="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio/blob/master/Office%20365/SVG/Excel.svg"  />
-<img align="left" alt="mySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"  />
+
 
 
 <!--
